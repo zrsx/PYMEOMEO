@@ -29,8 +29,6 @@
 
 ## Usage
 
-Sure! Here is the breakdown, with each command separately for each Python version:
-
 * **Python 3.10:**
 
   ```bash
@@ -54,12 +52,6 @@ Sure! Here is the breakdown, with each command separately for each Python versio
   ```bash
   python3.13 _bes313.py
   ```
-
----
-
-This separates each version clearly, using the respective Python version command.
-
-
 
 ---
 
