@@ -29,22 +29,48 @@
 
 ## Usage
 
-```bash
-python cxo.py
-```
+Sure! Here is the breakdown, with each command separately for each Python version:
 
-Follow the prompts to input a file and generate an obfuscated version.
+* **Python 3.10:**
+
+  ```bash
+  python3.10 _bes310.py
+  ```
+
+* **Python 3.11:**
+
+  ```bash
+  python3.11 _bes311.py
+  ```
+
+* **Python 3.12:**
+
+  ```bash
+  python3.12 _bes312.py
+  ```
+
+* **Python 3.13:**
+
+  ```bash
+  python3.13 _bes313.py
+  ```
+
+---
+
+This separates each version clearly, using the respective Python version command.
+
+
 
 ---
 
 ## Author
 
-**George Ahmad**
+**GEORGE and AHMAD**
 GitHub: [@zrsx](https://github.com/zrsx)
 
 ---
 
 ## License
 
-[MIT License](LICENSE)
+[Apache License](LICENSE)
 
