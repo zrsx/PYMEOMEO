@@ -54,8 +54,12 @@
   ```
 
 ---
+## Real Author & Inventor
+**hngocuyen**
+GitHub: [@hngocuyen](https://github.com/hngocuyen)
 
-## Author
+---
+## Modifyer & Editor & Enhancer
 
 **GEORGE and AHMAD**
 GitHub: [@zrsx](https://github.com/zrsx)
