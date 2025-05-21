@@ -1,72 +1,74 @@
 # PYMEOMEO
 
-> **Next-Gen Python Obfuscation & Protection Tool**
+> **Next-Generation Python Obfuscation and Protection Suite**
 
-**PYMEOMEO** is a high-performance Python obfuscator designed to protect your source code from reverse engineering, decompilation, and analysis.
-
----
-
-## Features
-
-* Advanced Python code obfuscation
-* Multiple encryption and compression layers
-* Dynamic code execution
-* Anti-debug and anti-decompiler measures
-* Version-based runtime locking
-* Clean and user-friendly interface
-* Fast obfuscation processing
-* Fully self-contained output
-* User/build tagging for custom packaging
+**PYMEOMEO** is an advanced, high-performance obfuscation framework for Python, engineered to protect intellectual property and prevent reverse engineering, static analysis, and decompilation of Python source code.
 
 ---
 
-## Requirements
+## Key Features
 
-* Python 3.10 – 3.13
-* `pystyle` module (`pip install pystyle`)
+- **Advanced Obfuscation Engine**: Sophisticated transformations to obscure Python logic.
+- **Multi-Layered Encryption & Compression**: Optional encryption and compression stages to increase complexity and reduce size.
+- **Dynamic Code Execution**: Enables runtime code generation and evaluation.
+- **Anti-Debugging & Anti-Decompilation**: Implements techniques to detect and mitigate debugging or decompilation attempts.
+- **Version-Specific Runtime Locking**: Ensures obfuscated output only runs on intended Python versions.
+- **Clean and Intuitive Interface**: Designed for both CLI and script-based integration.
+- **Optimized Processing Speed**: High-performance routines minimize obfuscation time.
+- **Self-Contained Output**: Produces standalone protected files with no external dependencies.
+- **User & Build Tagging**: Supports custom tagging for traceability and packaging.
 
 ---
 
-## Usage
+## System Requirements
 
-* **Python 3.10:**
+- **Python Versions**: 3.10 – 3.13
+- **Dependencies**:
+  - [`pystyle`](https://pypi.org/project/pystyle/) (`pip install pystyle`)
 
+---
+
+## Usage Guide
+
+Execute the appropriate script based on your Python interpreter version:
+
+- **Python 3.10**
   ```bash
-  python3.10 _bes310.py
-  ```
+  python3.10 _bes310.py```
 
-* **Python 3.11:**
+* **Python 3.11**
 
   ```bash
   python3.11 _bes311.py
   ```
 
-* **Python 3.12:**
+* **Python 3.12**
 
   ```bash
-  python3.12 _bes312.py
-  ```
+  python3.12 _bes312.py```
 
-* **Python 3.13:**
+* **Python 3.13**
 
   ```bash
-  python3.13 _bes313.py
-  ```
+  python3.13 _bes313.py```
 
 ---
-## Real Author & Inventor
-**hngocuyen**
-GitHub: [@hngocuyen](https://github.com/hngocuyen)
 
----
-## Modifyer & Editor & Enhancer
+## Contributors
 
-**GEORGE and AHMAD**
-GitHub: [@zrsx](https://github.com/zrsx)
+* **Lead Developer & Original Author**
+  [**hngocuyen**](https://github.com/hngocuyen)
+
+* **Project Enhancements & Maintenance**
+  [**GEORGE and AHMAD**](https://github.com/zrsx)
 
 ---
 
 ## License
 
-[Apache License](LICENSE)
+This project is licensed under the terms of the [Apache License 2.0](LICENSE).
+
+---
+
+> For questions, contributions, or feature requests, feel free to open an issue or contact the maintainers via GitHub.
 
