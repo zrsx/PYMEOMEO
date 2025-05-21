@@ -34,7 +34,8 @@ Execute the appropriate script based on your Python interpreter version:
 
 - **Python 3.10**
   ```bash
-  python3.10 _bes310.py```
+  python3.10 _bes310.py
+  ```
 
 * **Python 3.11**
 
@@ -45,12 +46,14 @@ Execute the appropriate script based on your Python interpreter version:
 * **Python 3.12**
 
   ```bash
-  python3.12 _bes312.py```
+  python3.12 _bes312.py
+  ```
 
 * **Python 3.13**
 
   ```bash
-  python3.13 _bes313.py```
+  python3.13 _bes313.py
+  ```
 
 ---
 
