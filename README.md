@@ -2,42 +2,41 @@
 
 > **Next-Generation Python Obfuscation and Protection Suite**
 
-**PYMEOMEO** is an advanced, high-performance obfuscation framework for Python, engineered to protect intellectual property and prevent reverse engineering, static analysis, and decompilation of Python source code.
+**PYMEOMEO** is a high-performance, next-gen obfuscation framework for Python, designed to protect proprietary source code from reverse engineering, static analysis, and decompilation.
 
 ---
 
 ## Key Features
 
-- **Advanced Obfuscation Engine**: Sophisticated transformations to obscure Python logic.
-- **Multi-Layered Encryption & Compression**: Optional encryption and compression stages to increase complexity and reduce size.
-- **Dynamic Code Execution**: Enables runtime code generation and evaluation.
-- **Anti-Debugging & Anti-Decompilation**: Implements techniques to detect and mitigate debugging or decompilation attempts.
-- **Version-Specific Runtime Locking**: Ensures obfuscated output only runs on intended Python versions.
-- **Clean and Intuitive Interface**: Designed for both CLI and script-based integration.
-- **Optimized Processing Speed**: High-performance routines minimize obfuscation time.
-- **Self-Contained Output**: Produces standalone protected files with no external dependencies.
-- **User & Build Tagging**: Supports custom tagging for traceability and packaging.
+- **Advanced Obfuscation Engine** — Sophisticated transformations that obscure Python code structures and logic.
+- **Multi-Layer Encryption & Compression** — Optional layers to increase code complexity and reduce footprint.
+- **Dynamic Code Execution** — Enables runtime code generation and execution to increase unpredictability.
+- **Anti-Debugging & Anti-Decompilation** — Detects and resists reverse engineering attempts.
+- **Version-Based Runtime Locking** — Ensures obfuscated code only runs on specific Python versions.
+- **Clean and User-Friendly Interface** — Simple CLI-driven workflow with intuitive operation.
+- **High-Speed Processing** — Optimized for rapid obfuscation at scale.
+- **Self-Contained Output** — Generates fully standalone protected scripts.
+- **User & Build Tagging** — Embed traceable metadata for distribution or audit purposes.
 
 ---
 
-## System Requirements
+## Requirements
 
-- **Python Versions**: 3.10 – 3.13
-- **Dependencies**:
+- **Supported Python Versions**: 3.10 – 3.13
+- **Dependency**:  
   - [`pystyle`](https://pypi.org/project/pystyle/) (`pip install pystyle`)
 
 ---
 
-## Usage Guide
+## Usage
 
-Execute the appropriate script based on your Python interpreter version:
+Run the script corresponding to your Python version:
 
 - **Python 3.10**
   ```bash
-  python3.10 _bes310.py
-  ```
+  python3.10 _bes310.py````
 
-* **Python 3.11**
+- **Python 3.11**
 
   ```bash
   python3.11 _bes311.py
@@ -57,21 +56,23 @@ Execute the appropriate script based on your Python interpreter version:
 
 ---
 
-## Contributors
+## Authors
 
-* **Lead Developer & Original Author**
+* **Original Creator**
   [**hngocuyen**](https://github.com/hngocuyen)
 
-* **Project Enhancements & Maintenance**
-  [**GEORGE and AHMAD**](https://github.com/zrsx)
+* **Enhancements, Maintenance, and Feature Extensions**
+
+  * [**George**](https://github.com/Aasyaco)
+  * [**Ahmad**](https://github.com/Ansyso)
 
 ---
 
 ## License
 
-This project is licensed under the terms of the [Apache License 2.0](LICENSE).
+Licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
-> For questions, contributions, or feature requests, feel free to open an issue or contact the maintainers via GitHub.
+> For support, contributions, or feature requests, please open an issue or contact the maintainers via GitHub.
 
