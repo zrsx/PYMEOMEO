@@ -34,7 +34,8 @@ Run the script corresponding to your Python version:
 
 - **Python 3.10**
   ```bash
-  python3.10 _bes310.py````
+  python3.10 _bes310.py
+  ```
 
 - **Python 3.11**
 
